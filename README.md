@@ -1,2 +1,2 @@
-# interacting-electrons.github.io
+# interacting-electrons
 github repository for interacting electrons course
