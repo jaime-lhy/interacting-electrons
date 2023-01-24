@@ -20,7 +20,7 @@
 
 title: Interacting Electrons
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the website for the interacting-electrons course. Content will be added as it becomes available.
+  This is the website for the interacting-electrons course.
 baseurl: "interacting-electrons" # the subpath of your site, e.g. /blog
 url: "interacting-electrons" # the base hostname & protocol for your site, e.g. http://example.com
 domain: interacting-electrons.github.io  
